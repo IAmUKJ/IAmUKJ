@@ -30,102 +30,102 @@
 </p>
 
 ---
-
-
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<div align="center" style="
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:14px;
-  background:#f8f9fa;
-  padding:18px;
-  border-radius:14px;
-  border:1px solid #e5e7eb;
-">
+<h4>🌐 Web Development</h4>
 
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.chartjs.org/media/logo-title.svg" width="48"/><br/>
+      Chart.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>
+      C++
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"/><br/>
+      CSS
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"/><br/>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br/>
+      JavaScript
+    </td>
+  </tr>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48"/><br/>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48"/><br/>
+      Express
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48"/><br/>
+      Firebase
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48"/><br/>
+      GraphQL
+    </td>
+  </tr>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48"/><br/>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48"/><br/>
+      MySQL
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48"/><br/>
+      PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/><br/>
+      Postman
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48"/><br/>
+      Kafka
+    </td>
+  </tr>
+</table>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
+<br/>
 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
+<h4>🤖 Machine Learning</h4>
 
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-       width="48" height="48"
-       style="padding:10px;background:white;border-radius:12px;border:1px solid #e5e7eb"/>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>
+      Scikit-Learn
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/><br/>
+      Pandas
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48"/><br/>
+      MATLAB
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48"/><br/>
+      OpenCV
+    </td>
+  </tr>
+</table>
