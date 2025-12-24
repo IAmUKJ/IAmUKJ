@@ -136,3 +136,11 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/IAmUKJ/IAmUKJ/output/github-contribution-grid-snake.svg">
 </picture>
 
+# 📊 GitHub Stats:
+<div align="center">
+  <img alt="stats"  height="150px" src = "https://github-readme-stats.vercel.app/api?username=IAmUKJ&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  &nbsp;
+  <img alt="stats" src = "https://github-readme-streak-stats.herokuapp.com/?user=IAmUKJ&theme=tokyonight&count_private=true" height="150px"/>
+  &nbsp;
+<!--   <img alt="stats" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IAmUKJ&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true" height="200px"/> -->
+</div>
