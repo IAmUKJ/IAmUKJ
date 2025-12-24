@@ -137,19 +137,20 @@
 </picture>
 
 ---
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAmUKJ&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IAmUKJ&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IAmUKJ&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IAmUKJ&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmUKJ&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmUKJ&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 ---
@@ -167,4 +168,3 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
