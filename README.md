@@ -35,66 +35,128 @@
 
 <p align="left">
   <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
+    <img src="https://www.chartjs.org/media/logo-title.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://graphql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.mathworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://www.rabbitmq.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
+
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+         style="background:#fff;padding:6px;margin:6px;border-radius:8px;"
+         width="44" height="44"/>
   </a>
 </p>
