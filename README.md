@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Kumar Jha</h1>
-
 <p align="center">
   <a href="https://parody-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Hey%20there!-I%20am%20Utkarsh%20Kumar%20Jha-black?style=for-the-badge" />
+    <img 
+      src="https://img.shields.io/badge/I%20am%20Utkarsh%20Kumar%20Jha-b?style=for-the-badge&label=Hey%20there!&color=black"
+      height="40"
+    />
   </a>
 </p>
 
