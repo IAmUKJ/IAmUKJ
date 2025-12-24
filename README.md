@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Kumar Jha</h1>
+![I am Utkarsh Kumar Jha](https://img.shields.io/badge/I%20am%20Avneet%20Singh-b?style=for-the-badge&label=Hey%20there!&color=black&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
