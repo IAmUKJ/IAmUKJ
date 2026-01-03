@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://parody-portfolio.vercel.app/" target="_blank">
+  <a href="https://portfolioukj.netlify.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/I%20am%20Utkarsh%20Kumar%20Jha-b?style=for-the-badge&label=Hey%20there!&color=black"
       height="48"
