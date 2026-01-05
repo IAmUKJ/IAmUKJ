@@ -37,6 +37,13 @@
   </a>
 [![Linkedin](https://img.shields.io/badge/Linkedin-b?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Favneets2103%2F)](https://www.linkedin.com/in/utkarsh-kumar-jha-59a44b239/)
 
+<h2>Stats and top languages cards </h2>
+<a href="https://github.com/IAmUKJ/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IAmUKJ" />
+</a>
+<a href="https://github.com/IAmUKJ/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IAmUKJ&layout=compact&langs_count=8&card_width=320" />
+</a>
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <h4>🌐 Web Development</h4>
