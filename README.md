@@ -31,7 +31,7 @@
 
 ### 🤝 Connect With Me
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://lifelong-1.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-black?style=for-the-badge&color=%23FF4301&link=https%3A%2F%2Fparody-portfolio.vercel.app%2F)](https://portfolioukj.netlify.app/)
 <a href="mailto:iamukj013@gmail.com">
     <img src="https://img.shields.io/badge/Email-iamukj013%40gmail.com-red?style=flat-square&logo=gmail">
   </a>
